@@ -49,8 +49,9 @@ a:hover { text-decoration: none }
 	height: 2px;
 	width: 65px;
 	background: linear-gradient(to right, #dd7000 33%,#000000 33%,#000000 50%,#000000 67%,#dd7000 67%,#dd7000 67%);
-	margin-left: 163px;
+	
 	bottom: 105px;
+	left:47%;
 }
 h2 {font-size:32px}
 section.section-padding {padding:100px 0}
